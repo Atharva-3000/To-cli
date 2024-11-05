@@ -1,0 +1,24 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+
+# Output of the `go build` and `go test` commands
+/build/
+/bin/
+*.out
+
+# Logs and debug files
+*.log
+*.test
+*.prof
+
+# IDE and editor configurations (optional, depending on your setup)
+.vscode/
+.idea/
+.DS_Store
+
+# Vendor directory (if you use vendoring for dependencies)
+vendor/
